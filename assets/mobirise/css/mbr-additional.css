@@ -583,6 +583,7 @@ h6,
 #footer1-j P {
   text-align: right;
 }
+
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -647,6 +648,9 @@ h6,
 #msg-box3-n .mbr-section-title,
 #msg-box3-n p {
   color: #000;
+}
+#msg-box3-n .lead P {
+  font-family: 'Raleway', sans-serif;
 }
 #footer1-j P {
   text-align: right;
